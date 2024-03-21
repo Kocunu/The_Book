@@ -1,0 +1,10 @@
+[book]
+authors = ["Kocunu"]
+language = "de"
+multilingual = false
+src = "src"
+title = "The_Book"
+
+
+[output.html]
+mathjax-support = true
